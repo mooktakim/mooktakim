@@ -6,7 +6,6 @@ Software engineer, entrepreneur, and mentor. I build products, companies, and co
 
 [![Website](https://img.shields.io/badge/Website-mooktakim.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://mooktakim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mooktakim/)
-[![Email](https://img.shields.io/badge/Email-m@mooktakim.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:m@mooktakim.com)
 
 ## What I'm building now
 
@@ -43,13 +42,6 @@ In-depth guides on shipping and operating Rails in production — deployment, in
 - [The Complete Guide to Deploying Rails 8 with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal/)
 <!-- BLOG-POST-LIST:END -->
 
-## GitHub
-
-<p>
-  <img height="165" alt="Mooktakim's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mooktakim&show_icons=true&hide_rank=true&hide_border=true" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mooktakim&layout=compact&hide_border=true&langs_count=8" />
-</p>
-
 ---
 
-Find me at [mooktakim.com](https://mooktakim.com) · [LinkedIn](https://www.linkedin.com/in/mooktakim/) · m@mooktakim.com
+Find me at [mooktakim.com](https://mooktakim.com) · [LinkedIn](https://www.linkedin.com/in/mooktakim/)
