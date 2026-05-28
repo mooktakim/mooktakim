@@ -19,6 +19,7 @@ Software engineer, entrepreneur, and mentor. I build products, companies, and co
 - **HomeHero** — Co-founder & CTO of a venture-backed digital home manager for chores, bills, and home admin (2015–2021).
 - **Rentjoy** — Co-founder & CTO, automated rental payments into FCA-regulated accounts over Open Banking / PSD2 (2022–2024).
 
+
 ## Tech I reach for
 
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
