@@ -38,10 +38,8 @@ Software engineer, entrepreneur, and mentor. I build products, companies, and co
 In-depth guides on shipping and operating Rails in production — deployment, infrastructure, and AI-assisted workflows. More at [mooktakim.com/blog](https://mooktakim.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare, Wildcard Domains, and On-Demand TLS with Caddy](https://mooktakim.com/blog/cloudflare-wildcard-domains-caddy-kamal/)
 - [Building Multi-Tenant SaaS with Rails 8, Caddy, and Kamal](https://mooktakim.com/blog/building-saas-with-rails-and-kamal/)
-- [Backing Up SQLite and ActiveStorage in a Kamal Deployment](https://mooktakim.com/blog/backing-up-sqlite-activestorage-kamal/)
-- [Self-Healing Rails: Automatic Error Detection and Fixes with Kamal, Fluentd, Claude, and GitHub](https://mooktakim.com/blog/self-healing-rails-kamal-fluentd-claude/)
+- [The Complete Guide to Deploying Rails 8 with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal/)
 <!-- BLOG-POST-LIST:END -->
 
 ## GitHub
