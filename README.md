@@ -40,6 +40,8 @@ Software engineer, entrepreneur, and mentor. I build products, companies, and co
 In-depth guides on shipping and operating Rails in production — deployment, infrastructure, and AI-assisted workflows. More at [mooktakim.com/blog](https://mooktakim.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
+- [MVC Context: Putting AI Context Where Rails Already Puts the Code](https://mooktakim.com/blog/mvc-context-rails/)
+- [Self-Healing Rails: I Let Claude Fix My Production Errors for a Month, Then Turned It Off](https://mooktakim.com/blog/self-healing-rails-kamal-fluentd-claude/)
 - [Building Multi-Tenant SaaS with Rails 8, Caddy, and Kamal](https://mooktakim.com/blog/building-saas-with-rails-and-kamal/)
 - [The Complete Guide to Deploying Rails 8 with Kamal on Hetzner](https://mooktakim.com/blog/deploying-rails-with-kamal/)
 <!-- BLOG-POST-LIST:END -->
