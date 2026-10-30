@@ -1,22 +1,23 @@
 # Mooktakim Ahmed
 
-**Tech founder · AI/ML engineer · builder**
+**Senior Full-Stack Engineer · Founder · Fractional CTO**
 
-Software engineer, entrepreneur, and mentor. I build products, companies, and communities in tech. Full-stack at heart — most at home in Ruby on Rails, and these days spending a lot of time in the AI/ML space. I also mentor founders from underrepresented backgrounds, because everyone deserves a fair shot at building something meaningful.
+I run Fluxter, my company for consulting and products. I build products, companies, and communities in tech. Full-stack at heart, most at home in Ruby on Rails, and these days spending a lot of time in the AI/ML space. I also mentor founders from underrepresented backgrounds, because everyone deserves a fair shot at building something meaningful.
 
 [![Website](https://img.shields.io/badge/Website-mooktakim.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://mooktakim.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mooktakim/)
 
 ## What I'm building now
 
-- **[EV Charger Widget](https://evchargerwidget.com)** — live UK EV charger availability on your Android home screen. Pin the chargers you use and see open / in-use / offline at a glance. No sign-in, no tracking. *(Kotlin, Jetpack Glance)*
-- **[Dinehere.ai](https://dinehere.ai)** — an AI restaurant website builder. Owners upload photos of their menu and get a professional site in minutes; AI handles layout, copy, and SEO. *(Ruby on Rails, Gemini)*
-- **[RapidRecruit](https://rapidrecruit.ai)** — AI CV formatting for recruitment agencies: polished, branded documents in under a minute. *(Ruby on Rails, Claude)*
+- **[EV Charger Widget](https://evchargerwidget.com)** - live UK EV charger availability on your Android home screen. Pin the chargers you use and see open / in-use / offline at a glance. No sign-in, no tracking. *(Kotlin, Jetpack Glance)*
+- **[Dinehere.ai](https://dinehere.ai)** - an AI restaurant website builder. Owners upload photos of their menu and get a professional site in minutes; AI handles layout, copy, and SEO. *(Ruby on Rails, Gemini)*
 
 ## Previously
 
-- **HomeHero** — Co-founder & CTO of a venture-backed digital home manager for chores, bills, and home admin (2015–2021).
-- **Rentjoy** — Co-founder & CTO, automated rental payments into FCA-regulated accounts over Open Banking / PSD2 (2022–2024).
+- **[RapidRecruit](https://rapidrecruit.ai)** - AI CV formatting for recruitment agencies: polished, branded documents in under a minute (2024-2026). *(Ruby on Rails, Claude)*
+- **Rentjoy** - Co-founder & CTO, automated rental payments into FCA-regulated accounts over Open Banking / PSD2 (2022-2024).
+- **Department for Education** - Senior Ruby Developer on a contract (2021-2026), helping replace a national service for early career teachers.
+- **HomeHero** - Co-founder & CTO of a venture-backed digital home manager for chores, bills, and home admin (2013-2021). Began as LawDeck, then became Homeshift before the HomeHero rebrand.
 
 
 ## Tech I reach for
