@@ -14,7 +14,7 @@ I run Fluxter, my company for consulting and products. I build products, compani
 
 ## Previously
 
-- **[RapidRecruit](https://rapidrecruit.ai)** - AI CV formatting for recruitment agencies: polished, branded documents in under a minute (2024-2026). *(Ruby on Rails, Claude)*
+- **[RapidRecruit](https://rapidrecruit.ai)** - AI CV formatting for recruitment agencies: polished, branded documents in under a minute (2024-2025). *(Ruby on Rails, Claude)*
 - **Rentjoy** - Co-founder & CTO, automated rental payments into FCA-regulated accounts over Open Banking / PSD2 (2022-2024).
 - **Department for Education** - Senior Ruby Developer on a contract (2021-2026), helping replace a national service for early career teachers.
 - **HomeHero** - Co-founder & CTO of a venture-backed digital home manager for chores, bills, and home admin (2013-2021). Began as LawDeck, then became Homeshift before the HomeHero rebrand.
