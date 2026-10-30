@@ -38,7 +38,7 @@ I run Fluxter, my company for consulting and products. I build products, compani
 
 ## Writing
 
-In-depth guides on shipping and operating Rails in production — deployment, infrastructure, and AI-assisted workflows. More at [mooktakim.com/blog](https://mooktakim.com/blog).
+In-depth guides on shipping and operating Rails in production - deployment, infrastructure, and AI-assisted workflows. More at [mooktakim.com/blog](https://mooktakim.com/blog).
 
 <!-- BLOG-POST-LIST:START -->
 - [MVC Context: Putting AI Context Where Rails Already Puts the Code](https://mooktakim.com/blog/mvc-context-rails/)
