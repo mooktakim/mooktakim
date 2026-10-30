@@ -1,6 +1,6 @@
 # Mooktakim Ahmed
 
-**Senior Full-Stack Engineer · Founder · Fractional CTO**
+**Senior Full-Stack Engineer · Founder**
 
 I run Fluxter, my company for consulting and products. I build products, companies, and communities in tech. Full-stack at heart, most at home in Ruby on Rails, and these days spending a lot of time in the AI/ML space. I also mentor founders from underrepresented backgrounds, because everyone deserves a fair shot at building something meaningful.
 
